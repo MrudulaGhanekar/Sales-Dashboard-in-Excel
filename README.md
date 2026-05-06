@@ -1,37 +1,26 @@
-# 📊 Sales Performance Dashboard
+# 📊 Sales Dashboard (Excel)
 
 ## 📌 Project Overview
-This project is an interactive dashboard built using Power BI to analyze sales performance, profit trends, and regional insights.
+This project is an interactive Sales Dashboard built using Microsoft Excel to analyze sales performance and business trends.
 
 ---
 
 ## 🎯 Objectives
-- Analyze total sales and profit
-- Identify top-performing regions and categories
-- Track monthly sales trends
-- Improve decision-making using data visualization
+- Track sales performance  
+- Analyze trends and patterns  
+- Create interactive visualizations  
 
 ---
 
-## 📊 Key Metrics
-- 💰 Total Sales: 9.48M
-- 📈 Total Profit: 1.09M
-- 📊 Profit Margin: 11.5%
-- 🚚 Avg Shipping Days: 3.96
+## 📊 Key Features
+- KPI Cards (Total Sales, Total Units, Average Sales)  
+- Pivot Tables for data analysis  
+- Charts: Bar, Line, Pie  
+- Slicers for interactive filtering  
 
 ---
 
-## 📈 Dashboard Features
-- Sales by Region
-- Profit by Category
-- Monthly Sales Trends
-- Sales by Shipping Mode
-- Interactive Filters (Region, Category, Order Priority)
-
----
-
-## 🛠 Tools & Technologies
-- Power BI  
+## 🛠 Tools Used
 - Microsoft Excel  
 
 ---
@@ -41,19 +30,22 @@ This project is an interactive dashboard built using Power BI to analyze sales p
 
 ---
 
-## 🔍 Key Insights
-- Technology category generates the highest profit  
-- Standard Class shipping contributes the most sales  
-- Some regions outperform others significantly  
-- Sales show clear monthly fluctuations  
+## 🔍 Insights
+- Identified top-performing products  
+- Analyzed monthly sales trends  
+- Compared category-wise performance  
 
 ---
 
-## 📂 Project Files
-- `dashboard.pbix` → Power BI file  
-- `dashboard.pdf` → Exported report  
+## 📂 Files
+- `Sales Dashboard in Excel.xlsx` → Excel dashboard file  
+
+---
+
+## 💡 Use Case
+This dashboard helps businesses track performance and make data-driven decisions.
 
 ---
 
 ## 🙋‍♂️ About Me
-I am a data analytics enthusiast with skills in Excel and Power BI, passionate about building dashboards and extracting insights from data.
+Aspiring Data Analyst skilled in Excel, SQL, and Power BI.
